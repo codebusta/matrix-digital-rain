@@ -3,7 +3,7 @@
 
 # Matrix Digital Rain
 
-Inspired by [oh-my-matrix](https://github.com/amstrad/oh-my-matrix/blob/master/README.md) GitHub repo.
+Inspired by amstrad's [oh-my-matrix](https://github.com/amstrad/oh-my-matrix/blob/master/README.md) GitHub repo.
  
 Turns your terminal into a matrix script.
 
@@ -17,7 +17,7 @@ Turns your terminal into a matrix script.
 
 1. Clone this repository in oh-my-zsh's plugins directory:
 
-        git clone https://[github.com/amstrad/oh-my-matrix](https://github.com/codebusta/matrix-digital-rain) ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/matrix-digital-rain
+        git clone https://[github.com/codebusta/matrix-digital-rain](https://github.com/codebusta/matrix-digital-rain) ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/matrix-digital-rain
 
 2. Activate the plugin in `~/.zshrc`:
 
